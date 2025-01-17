@@ -2,7 +2,7 @@
 
 ## ==> [Link to all problem set](https://github.com/anirudha-8/react.js-practical-problems.git)
 
-## ==> [🔥Live Demo](https://08-simple-todo-list-react-problem.vercel.app/)
+## ==> [🔥Live Demo](https://08-simple-todo-app-react-problem.vercel.app/)
 
 Welcome to the **eighth problem** of the React 30+ Practical Problems series! In this challenge, we will implement a simple to-do list application.
 
@@ -27,7 +27,7 @@ This challenge will help you practice working with React state and event handlin
 1. **Clone the Submodule Repository:**
 
     ```bash
-        git clone https://github.com/anirudha-8/08-simple-todo-list-react-problem.git
+        git clone https://github.com/anirudha-8/08-simple-todo-app-react-problem.git
     ```
 
 2. Navigate to the Project Directory:
